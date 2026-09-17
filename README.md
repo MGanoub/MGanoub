@@ -10,9 +10,12 @@ I build things end-to-end: simulation logic, desktop UI, and everything in betwe
 
 **[IPTVPlayer](https://github.com/MGanoub/IPTVPlayer)**  a desktop IPTV player for Windows (WPF, LibVLCSharp). Connects to Xtream Codes providers, caches channels locally via SQLite/EF Core, browses by category. Built as a hands-on deep dive into WPF, EF Core, and LibVLC.
 
+**[LinkShortener](https://github.com/MGanoub/LinkShortner)**  Full-stack URL shortener with JWT auth, rate limiting, and click tracking. With 
+ASP.NET Core + PostgreSQL for backend, React/TypeScript frontend, Dockerized and deployed on Render.
+
 ## Stack
 
-`C++` `Qt` `Python` `C#` `.NET` `WPF` `EF Core` `SQL`
+`C++` `Qt` `Python` `C#` `.NET` `WPF` `ASP.NET` `EF Core` `SQL` 
 
 ## Reach out
 
