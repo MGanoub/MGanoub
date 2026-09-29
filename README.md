@@ -2,21 +2,26 @@
 
 Senior Software Engineer | C++ · Qt · Python · C#/.NET
 
-I build things end-to-end: simulation logic, desktop UI, and everything in between. Lately I've been dabbling in WPF/EF Core on the .NET side and revisiting C++/Qt for a project aimed at teaching young students the basics of electronics.
+I build software end-to-end: from simulation logic and core architecture to desktop UI and backend services. Recently I've been working across the .NET ecosystem (ASP.NET Core, WPF, EF Core) and returning to C++/Qt for a projects like teaches young students the basics of electronics.
 
 ## Projects
 
-**[LogicSim](https://github.com/MGanoub/LogicSim)**  a digital logic circuit simulator built in C++/Qt, aimed at young students learning the basics of electronics and logic gates through hands-on experimentation. Drag gates and I/O sources onto a canvas, wire them up, watch signal state propagate in real time. Architected with a clean separation between simulation core and UI (Factory + Observer patterns).
+**[LogicSim](https://github.com/MGanoub/LogicSim)**: Digital logic circuit simulator in C++/Qt, designed to help young students learn electronics and logic gates through hands-on experimentation. Drag gates and I/O sources onto a canvas, wire them up and watch signals propagate in real time. Built with a clean separation between the simulation core and the UI (Factory and Observer patterns).
 
-**[IPTVPlayer](https://github.com/MGanoub/IPTVPlayer)**  a desktop IPTV player for Windows (WPF, LibVLCSharp). Connects to Xtream Codes providers, caches channels locally via SQLite/EF Core, browses by category. Built as a hands-on deep dive into WPF, EF Core, and LibVLC.
+**[LinkShortener](https://github.com/MGanoub/LinkShortner)**: Full-stack URL shortener with JWT authentication, rate limiting and click tracking. ASP.NET Core and PostgreSQL backend, React/TypeScript frontend, containerized with Docker and deployed on Render.
 
-**[LinkShortener](https://github.com/MGanoub/LinkShortner)**  Full-stack URL shortener with JWT auth, rate limiting, and click tracking. With 
-ASP.NET Core + PostgreSQL for backend, React/TypeScript frontend, Dockerized and deployed on Render.
+**[IPTVPlayer](https://github.com/MGanoub/IPTVPlayer)**: Windows desktop IPTV player built with WPF and LibVLCSharp. Connects to Xtream Codes providers, caches channels locally with SQLite and EF Core, and supports browsing by category.
+
+**[Rink Rivals](https://github.com/MGanoub/rink-rivals)**: Real-time multiplayer ice hockey for mobile browsers, built from scratch with Canvas 2D, custom physics and Firebase, using a host-authoritative model with client-side prediction.
 
 ## Stack
 
-`C++` `Qt` `Python` `C#` `.NET` `WPF` `ASP.NET` `EF Core` `SQL` 
+**Languages:** `C++` `C#` `Python` `JavaScript` `TypeScript` `SQL` 
 
-## Reach out
+**Frameworks:** `Qt` `.NET` `ASP.NET Core` `WPF` `EF Core` `React`
 
-Open to interesting projects and collaboration. feel free to open an issue on any repo or reach out directly.
+**Data & infrastructure:** `PostgreSQL` `SQLite` `Docker` `Firebase`
+
+## Get in touch
+
+Open to interesting projects and collaboration. Feel free to open an issue on any repo, or reach me on [LinkedIn](https://www.linkedin.com/in/mohamedganoub/).
