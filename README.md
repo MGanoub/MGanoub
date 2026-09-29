@@ -1,6 +1,6 @@
 # Mohamed Ganoub
 
-Senior Software Engineer | C++ · Qt · Python · C#/.NET
+Senior Software Engineer | C++ · Qt · C#/.NET
 
 I build software end-to-end: from simulation logic and core architecture to desktop UI and backend services. Recently I've been working across the .NET ecosystem (ASP.NET Core, WPF, EF Core) and returning to C++/Qt for a projects like teaches young students the basics of electronics.
 
